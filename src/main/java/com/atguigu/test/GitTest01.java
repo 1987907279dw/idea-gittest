@@ -6,4 +6,7 @@ package com.atguigu.test;
  * Description:
  */
 public class GitTest01 {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
 }
